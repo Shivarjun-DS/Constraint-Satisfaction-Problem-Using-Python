@@ -1,0 +1,4 @@
+ We need to implement Constraint satisfaction problem for the following problem:
+There are six people that need to sit by a round table for dinner: Alice, Bob, Charlie, Darek, Eliza, and Frank. Alice and Bob want to sit
+next to each other. Charlie does not want to sit next to Darek. Eliza wants to sit directly across from Alice. After dinner, Eliza wants
+to sit across from Frank instead of Alice.
